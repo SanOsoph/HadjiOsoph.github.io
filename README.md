@@ -1,6 +1,6 @@
 # Hadji Osoph – Project Portfolio 
 
-<img src="me.png" alt="Hadji Osoph" width="120" align="left" style="margin-right:15px; border-radius:8px;" />
+<img src="me.png" alt="Hadji Osoph" width="180" align="left" style="margin-right:15px; border-radius:8px;" />
 
 ## About Me
 **I am Insan M. Hadji Osoph,** a **BS Information Technology** student at **New Era University**. I am more interested 
@@ -46,13 +46,13 @@ and Individuals with Limited Digital Experience
 
 ## Screenshots
 
-### **Profile Settings**
+### Profile Settings
 ![Profile Screenshot](Profile.png)
 
-### **Dashboard and Categories Learning**
+### Dashboard and Categories Learning
 ![Dashboard Screenshot](Dashboard.png)
 
-### **User Interface**
+### User Interface
 ![DigiKnow Screenshot](Digiknow.png)
 
 ---
