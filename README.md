@@ -1,6 +1,6 @@
 # Hadji Osoph – Project Portfolio 🚀
 
-<img src="./images/me.png" alt="Efraim Adenit" width="120" align="left" style="margin-right:15px; border-radius:8px;" />
+<img src="./images/me.png" alt="Hadji Osoph" width="120" align="left" style="margin-right:15px; border-radius:8px;" />
 
 ## 👤 About Me
 I am **Insan M. Hadji Osoph**, a BS Information Technology student at **New Era University**.  
