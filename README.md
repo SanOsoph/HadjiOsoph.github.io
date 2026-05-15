@@ -3,7 +3,7 @@
 <img src="me.png" alt="Hadji Osoph" width="180" align="left" style="margin-right:15px; border-radius:8px;" />
 
 ## About Me
-**I am Insan M. Hadji Osoph,** a **BS Information Technology** student at **New Era University**. I am more interested 
+I am **Insan M. Hadji Osoph,** a **BS Information Technology** student at **New Era University**. I am more interested 
 in design, especially using tools like Figma and creating user-friendly interfaces, and I also enjoy editing and 
 exploring creative ideas. I am still building my experience, but I am continuously learning and improving my 
 skills in both design and development.
@@ -17,7 +17,7 @@ and Individuals with Limited Digital Experience
 
 ---
 
-### Key Features:
+### Key Features
 - Login and Sign Up system
 - Email tutorial 
 - Dashboard with progress tracking
@@ -27,7 +27,7 @@ and Individuals with Limited Digital Experience
 
 ---
 
-### Learning Modules:
+### Learning Modules
 - Digital Wallet (GCash) 
 - Communication Apps (Facebook & Messenger)
 - Entertainment Apps (YouTube) 
