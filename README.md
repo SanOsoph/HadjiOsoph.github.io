@@ -36,6 +36,7 @@ and Individuals with Limited Digital Experience
 ---
 
 ## Other Projects
+- PISCES (Figma Web & Mobile Design)
 - HTML, CSS web projects
 - Kotlin (Android Studio apps) 
 - Cybersecurity basics
