@@ -2,7 +2,7 @@
 
 <img src="./images/me.png" alt="Hadji Osoph" width="120" align="left" style="margin-right:15px; border-radius:8px;" />
 
-## 👤 About Me
+## About Me
 I am **Insan M. Hadji Osoph**, a BS Information Technology student at **New Era University**.  
 I specialize in **UX design, collaborative coding platforms, web applications, and cybersecurity labs**.  
 My academic journey is driven by building systems that merge usability with technical depth.
@@ -11,47 +11,43 @@ My academic journey is driven by building systems that merge usability with tech
 
 ## 📂 Featured Projects
 
-### 🔹 EchoPoly IDE: Collaborative Coding and Learning Hub
-- **Description:** A capstone project designed as a web-based IDE for collaborative coding and classroom engagement.  
-- **Status:** In development, deployed on Vercel.  
-- **Live Demo:** [echopoly-ide.vercel.app](https://echopoly-ide.vercel.app/)  
-- **Notes:** [View Documentation](./notes/echopoly_notes.md)
+- ** DIGIKNOW A: Mobile Learning Tool for Baby Boomers
+and Individuals with Limited Digital Experience
 
 ---
 
-### 🔹 NEU Library Visitor Log System
-- **Description:** A web application for managing and tracking library visitors at New Era University.  
-- **Status:** Deployed on Vercel.  
-- **Live Demo:** [neu-library-visitor-log-theta.vercel.app](https://neu-library-visitor-log-theta.vercel.app/)  
-- **Notes:** [View Documentation](./notes/neu_library_notes.md)
+### Key Features:
+- **Login and Sign Up system
+- **Email tutorial 
+- **Dashboard with progress tracking
+- **Interactive learning modules
+- **Profile and settings
+- **Suggestion/feedback panel
 
 ---
 
-### 🔹 KeyFlow: Typing Efficiency Program
-- **Description:** A group project focused on typing speed and accuracy, with efficiency metrics.  
-- **Status:** Not deployed (local project).  
-- **Role:** Lead developer for core logic.  
-- **Notes:** [View Documentation](./notes/keyflow_notes.md)
+### Learning Modules:
+- **Digital Wallet (GCash) 
+- **Communication Apps (Facebook & Messenger)
+- **Entertainment Apps (YouTube) 
+- **Online Shopping (Shopee, Lazada, TikTok Shop)
 
 ---
 
-## 💻 Other Projects
+## Other Projects
 - Kotlin (Android Studio apps)  
 - ReactJS, HTML, CSS web projects  
-- C++, Python, Dash applications  
-- Java, JavaScript exercises  
-- Cybersecurity basics & SQL labs  
+- C++, Python, Dash applications
+- Cybersecurity basics
 
 ---
 
-## 🖼️ Screenshots
-![EchoPoly IDE](./images/echopoly_screenshot.png)  
-![NEU Library Visitor Log](./images/neu_library_screenshot.png)  
-![KeyFlow Demo](./images/keyflow_demo.png)
+## Screenshots
+
 
 ---
 
 ## 🎯 Goals
-- Successfully defend and finalize **EchoPoly IDE** as a capstone project.  
-- Build a professional portfolio showcasing academic and personal projects.  
-- Continue documenting technical labs and applied cybersecurity exercises.  
+- Help beginners use technology
+- Make digital learning simple and easy 
+- Build users’ confidence in using apps
