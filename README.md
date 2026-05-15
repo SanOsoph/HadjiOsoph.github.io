@@ -1,4 +1,4 @@
-# Hadji Osoph – Project Portfolio 🚀
+# Hadji Osoph – Project Portfolio 
 
 <img src="me.png" alt="Hadji Osoph" width="120" align="left" style="margin-right:15px; border-radius:8px;" />
 
@@ -10,36 +10,36 @@ skills in both design and development.
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-- ** DIGIKNOW A: Mobile Learning Tool for Baby Boomers
+- DIGIKNOW A: Mobile Learning Tool for Baby Boomers
 and Individuals with Limited Digital Experience
 
 ---
 
 ### Key Features:
-- **Login and Sign Up system
-- **Email tutorial 
-- **Dashboard with progress tracking
-- **Interactive learning modules
-- **Profile and settings
-- **Suggestion/feedback panel
+- Login and Sign Up system
+- Email tutorial 
+- Dashboard with progress tracking
+- Interactive learning modules
+- Profile and settings
+- Suggestion/feedback panel
 
 ---
 
 ### Learning Modules:
-- **Digital Wallet (GCash) 
-- **Communication Apps (Facebook & Messenger)
-- **Entertainment Apps (YouTube) 
-- **Online Shopping (Shopee, Lazada, TikTok Shop)
+- Digital Wallet (GCash) 
+- Communication Apps (Facebook & Messenger)
+- Entertainment Apps (YouTube) 
+- Online Shopping (Shopee, Lazada, TikTok Shop)
 
 ---
 
 ## Other Projects
-- Kotlin (Android Studio apps)  
-- ReactJS, HTML, CSS web projects  
-- C++, Python, Dash applications
+- HTML, CSS web projects
+- Kotlin (Android Studio apps) 
 - Cybersecurity basics
+- C++, Python, Dash applications
 
 ---
 
