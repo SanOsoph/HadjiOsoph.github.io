@@ -45,11 +45,19 @@ and Individuals with Limited Digital Experience
 ---
 
 ## Screenshots
+
+### **Profile Settings**
+![Profile Screenshot](Profile.png)
+
+### **Dashboard and Categories Learning**
+![Dashboard Screenshot](Dashboard.png)
+
+### **User Interface**
 ![DigiKnow Screenshot](Digiknow.png)
 
 ---
 
-## 🎯 Goals
-- Help beginners use technology
-- Make digital learning simple and easy 
-- Build users’ confidence in using apps
+## Goals
+- To create an easy-to-use mobile app for beginners and baby boomers
+- To make digital learning simple and guided through step-by-step lessons
+- To help users build confidence in using digital tools and applications
