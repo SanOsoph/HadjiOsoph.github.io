@@ -3,9 +3,10 @@
 <img src="me.png" alt="Hadji Osoph" width="120" align="left" style="margin-right:15px; border-radius:8px;" />
 
 ## About Me
-I am **Insan M. Hadji Osoph**, a BS Information Technology student at **New Era University**.  
-I specialize in **UX design, collaborative coding platforms, web applications, and cybersecurity labs**.  
-My academic journey is driven by building systems that merge usability with technical depth.
+**I am Insan M. Hadji Osoph,** a **BS Information Technology** student at **New Era University**. I am more interested 
+in design, especially using tools like Figma and creating user-friendly interfaces, and I also enjoy editing and 
+exploring creative ideas. I am still building my experience, but I am continuously learning and improving my 
+skills in both design and development.
 
 ---
 
@@ -43,7 +44,7 @@ and Individuals with Limited Digital Experience
 ---
 
 ## Screenshots
-
+![DigiKnow Screenshot](digiknow.png)
 
 ---
 
