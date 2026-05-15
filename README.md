@@ -44,7 +44,7 @@ and Individuals with Limited Digital Experience
 ---
 
 ## Screenshots
-![DigiKnow Screenshot](digiknow.png)
+![DigiKnow Screenshot](Digiknow.png)
 
 ---
 
